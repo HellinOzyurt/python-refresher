@@ -17,11 +17,21 @@
 
 # print(a.islower)
 
-gel_yaz = "gelecegi_yazanlar"
+# gel_yaz = "gelecegi_yazanlar"
 
-gel_yaz_replace = gel_yaz.replace("e","a")
-print(gel_yaz_replace)
+# gel_yaz_replace = gel_yaz.replace("e","a")
+# print(gel_yaz_replace)
 
+# name = "*gelecegi_yazanlar a"
 
+# temp = name.strip("a")
 
+# print(temp)
 
+# name = "hELLin*oZ"
+
+# #veri tipinin metodlarına gidebileceğimiz metod
+# # print(dir(name))
+
+# print(name.capitalize())
+# print(name.title())
