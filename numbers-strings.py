@@ -35,3 +35,9 @@
 
 # print(name.capitalize())
 # print(name.title())
+
+#Substring
+
+name = "hellin ozyurt"
+print(name[0:3]) #sağ tarif dahil değil 
+print(name[1:3]) #sağ tarif dahil değil 
